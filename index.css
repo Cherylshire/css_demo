@@ -4,3 +4,8 @@ body {
   width: 960px;
   margin: 0 auto;
 }
+
+.column-section {
+  width: 320px;
+  float: left;
+}
