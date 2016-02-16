@@ -18,3 +18,51 @@ body {
   padding: 10px;
   margin: 10px;
 }
+
+/* COLORS */
+
+body {
+  background-color: #444 ;
+}
+
+header {
+  background-color: #000;
+}
+
+header h1 {
+  color: #040;
+}
+
+#header-title {
+  color: #0b0;
+}
+
+.column-section {
+  background-color: #272822;
+}
+
+.column-section h2 {
+  color: white;
+}
+
+#what-is-pp p {
+  color: #B92659;
+}
+
+#why-do-pp p {
+  color: #6AC62E;
+}
+
+#how-to-pp p {
+  color: #66D9EF;
+}
+
+#reflection {
+  background-color: #121212;
+  color: #888;
+}
+
+footer {
+  background-color: #000;
+  color: #040;
+}
