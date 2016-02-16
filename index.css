@@ -69,6 +69,14 @@ footer {
   color: #040;
 }
 
+footer a {
+  color: #060;
+}
+
+footer a:hover {
+  color: #090;
+}
+
 /* TYPOGRAPHY */
 
 body {
