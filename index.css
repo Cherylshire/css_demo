@@ -8,10 +8,13 @@ body {
 .column-section {
   width: 280px;
   float: left;
-  padding: 10px;
-  margin: 10px;
 }
 
 #reflection {
   clear: both;
+}
+
+.column-section, header, #reflection, footer {
+  padding: 10px;
+  margin: 10px;
 }
